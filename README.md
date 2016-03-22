@@ -11,3 +11,5 @@ It should be noted that I based my final solution heavily on the top comment at 
 
 The thread of his solution: 
 (https://www.reddit.com/r/dailyprogrammer/comments/4bc3el/20160321_challenge_259_easy_clarence_the_slow/d17tejt)
+
+My solution was written using IntelliJ IDEA Community Edition 2016.1, with JDK1.8.0_73
